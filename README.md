@@ -1,2 +1,3 @@
 # pythonexam
-py ex
+### 3 by filters
+### 4 by binary tree
