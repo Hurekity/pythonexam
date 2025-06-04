@@ -6,7 +6,7 @@
 #for p in permutations('ABCDEFGH'): # все возможные перестановки
 #    if all([str(p.index(x) + 1) in a[p.index(y)] for x,y in s]):
 #        print(*p)
-
+# ---------------------------------------------------------------
 #from itertools import *
 #print('1 2 3 4 5 6 7 8')
 #a = '23 168 158 578 347 27 456 234'.split()
@@ -15,7 +15,7 @@
 #for p in permutations('ABCDEFGH'):
 #    if all([str(p.index(x) + 1) in a[p.index(y)] for x,y in s]):
 #        print(*p)
-
+# ---------------------------------------------------------------
 #from itertools import *
 #print ('1 2 3 4 5 6 7')
 #a = '234 136 12 157 467 25 45'.split()
