@@ -3,8 +3,7 @@
 ### 4 by binary tree
 ### 18 by hands. copypaste with % and (horizontal\vertical) X1 = A1+Y2
 ### макс(В1+А2)
-### 7 by hands
-### V = N * I * M(x,y)
+### 7 by hands; V = I * M(x,y) - image; V = f * n * i * t - sound;
 
 
 
