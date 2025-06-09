@@ -70,7 +70,7 @@ for m in range(0,33):
     if str(net1.network_address) != str(net2.network_address): # проверка на разности адресов сетей
         if '216.54.187.235' != str(net1.network_address) and '216.54.187.235' != str(net1.broadcast_address):
             if '216.54.174.128' != str(net2.network_address) and '216.54.174.128' != str(net2.broadcast_address):
-                # проверка на то, что данный нам адрес не является адресом сети и широковещательным узлом.1
+                # проверка на то, что данный нам адрес не является адресом сети и широковещательным узлом.
              print(m)
 
 
