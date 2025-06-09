@@ -5,7 +5,8 @@
 ### макс(В1+А2)
 ### 7 by hands; V = I * M(x,y) - image; V = f * n * i * t - sound;
 
-
+### [:16] -  с 0 по 15, [16:] - с 16 по ...
+all - в условии выполняется все
 
 
 permutations if digits cant repeat, otherwise product
