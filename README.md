@@ -12,6 +12,13 @@ for c in range(1,200):
     print (c, chr(c))
 если забыл алфавит
 
+def is_prime(x):
+    for i in range(2, (x//2)+1):
+        if x % i == 0:
+            return False
+    return True
+проверка на то, что число простое
+
 permutations if digits cant repeat, otherwise product
 >>> a = [i for i in range(1,15)]
 >>>> a
